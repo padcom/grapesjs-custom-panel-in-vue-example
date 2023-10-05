@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "start": "vite",
+    "build": "vite build"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.4.0",
+    "grapesjs": "^0.21.7",
+    "vite": "^4.4.11",
+    "vue": "^3.3.4"
+  }
+}
